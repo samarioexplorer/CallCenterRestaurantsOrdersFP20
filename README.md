@@ -10,6 +10,9 @@ As more and more people opt for the convenience of having food delivered right t
 doorstep, understanding the underlying dynamics of this industry becomes increasingly
 important.
 
+Here is the link to the live interactive report published on Power BI App
+https://lnkd.in/e_nTv3Te
+
 THE BRIEF
 *IMPORTANT*
 In this challenge, you will be given access to a rich data set that covers a variety of variables
